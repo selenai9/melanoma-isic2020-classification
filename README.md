@@ -1,11 +1,12 @@
 # Cost-Sensitive Melanoma Detection: Handcrafted-Feature Machine Learning vs Convolutional Networks, with and without Clinical Metadata
 
-Machine Learning summative project, African Leadership University. Author: **[Your name]**
+Introduction to Machine Learning summative 
+Author: **Selena ISIMBI**
 
 | Resource | Link |
 |---|---|
 | Code (this repository) | [GitHub link] |
-| Data, saved models and logs (Google Drive, view access) | [Google Drive link] |
+| Data, saved models and logs (Google Drive, view access) | https://drive.google.com/drive/folders/1-hHbnQsSVu1c-4T3rmfo5iOxOHYJtI4L?usp=sharing |
 | Video presentation | [Video link] |
 
 ## Research question
