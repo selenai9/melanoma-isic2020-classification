@@ -1,6 +1,6 @@
 # Cost-Sensitive Melanoma Detection: Handcrafted-Feature Machine Learning vs Convolutional Networks, with and without Clinical Metadata
 
-Introduction to Machine Learning summative
+Introduction to Machine Learning Summative
 
 Author: **Selena ISIMBI**
 
