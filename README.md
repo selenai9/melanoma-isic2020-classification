@@ -5,7 +5,7 @@ Author: **Selena ISIMBI**
 
 | Resource | Link |
 |---|---|
-| Code (this repository) | [GitHub link] |
+| Code (this repository) | https://github.com/selenai9/melanoma-isic2020-classification |
 | Data, saved models and logs (Google Drive, view access) | https://drive.google.com/drive/folders/1-hHbnQsSVu1c-4T3rmfo5iOxOHYJtI4L?usp=sharing |
 | Video presentation | [Video link] |
 
